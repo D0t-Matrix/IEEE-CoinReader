@@ -9,6 +9,7 @@ import urllib.parse
 import re
 import api_module
 import bank_module
+import coin_reader_module
 
 
 #start root
